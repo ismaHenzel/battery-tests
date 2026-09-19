@@ -1,0 +1,327 @@
+Running for 300.0 seconds (300 samples at 1.0 second intervals).
+Power measurements will start in 180 seconds time.
+
+Waiting 180 seconds before starting (gathering samples). Waiting 179 seconds before starting (gathering samples). Waiting 178 seconds before starting (gathering samples). Waiting 177 seconds before starting (gathering samples). Waiting 176 seconds before starting (gathering samples). Waiting 175 seconds before starting (gathering samples). Waiting 174 seconds before starting (gathering samples). Waiting 173 seconds before starting (gathering samples). Waiting 172 seconds before starting (gathering samples). Waiting 171 seconds before starting (gathering samples). Waiting 170 seconds before starting (gathering samples). Waiting 169 seconds before starting (gathering samples). Waiting 168 seconds before starting (gathering samples). Waiting 167 seconds before starting (gathering samples). Waiting 166 seconds before starting (gathering samples). Waiting 165 seconds before starting (gathering samples). Waiting 164 seconds before starting (gathering samples). Waiting 163 seconds before starting (gathering samples). Waiting 162 seconds before starting (gathering samples). Waiting 161 seconds before starting (gathering samples). Waiting 160 seconds before starting (gathering samples). Waiting 159 seconds before starting (gathering samples). Waiting 158 seconds before starting (gathering samples). Waiting 157 seconds before starting (gathering samples). Waiting 156 seconds before starting (gathering samples). Waiting 155 seconds before starting (gathering samples). Waiting 154 seconds before starting (gathering samples). Waiting 153 seconds before starting (gathering samples). Waiting 152 seconds before starting (gathering samples). Waiting 151 seconds before starting (gathering samples). Waiting 150 seconds before starting (gathering samples). Waiting 149 seconds before starting (gathering samples). Waiting 148 seconds before starting (gathering samples). Waiting 147 seconds before starting (gathering samples). Waiting 146 seconds before starting (gathering samples). Waiting 145 seconds before starting (gathering samples). Waiting 144 seconds before starting (gathering samples). Waiting 143 seconds before starting (gathering samples). Waiting 142 seconds before starting (gathering samples). Waiting 141 seconds before starting (gathering samples). Waiting 140 seconds before starting (gathering samples). Waiting 139 seconds before starting (gathering samples). Waiting 138 seconds before starting (gathering samples). Waiting 137 seconds before starting (gathering samples). Waiting 136 seconds before starting (gathering samples). Waiting 135 seconds before starting (gathering samples). Waiting 134 seconds before starting (gathering samples). Waiting 133 seconds before starting (gathering samples). Waiting 132 seconds before starting (gathering samples). Waiting 131 seconds before starting (gathering samples). Waiting 130 seconds before starting (gathering samples). Waiting 129 seconds before starting (gathering samples). Waiting 128 seconds before starting (gathering samples). Waiting 127 seconds before starting (gathering samples). Waiting 126 seconds before starting (gathering samples). Waiting 125 seconds before starting (gathering samples). Waiting 124 seconds before starting (gathering samples). Waiting 123 seconds before starting (gathering samples). Waiting 122 seconds before starting (gathering samples). Waiting 121 seconds before starting (gathering samples). Waiting 120 seconds before starting (gathering samples). Waiting 119 seconds before starting (gathering samples). Waiting 118 seconds before starting (gathering samples). Waiting 117 seconds before starting (gathering samples). Waiting 116 seconds before starting (gathering samples). Waiting 115 seconds before starting (gathering samples). Waiting 114 seconds before starting (gathering samples). Waiting 113 seconds before starting (gathering samples). Waiting 112 seconds before starting (gathering samples). Waiting 111 seconds before starting (gathering samples). Waiting 110 seconds before starting (gathering samples). Waiting 109 seconds before starting (gathering samples). Waiting 108 seconds before starting (gathering samples). Waiting 107 seconds before starting (gathering samples). Waiting 106 seconds before starting (gathering samples). Waiting 105 seconds before starting (gathering samples). Waiting 104 seconds before starting (gathering samples). Waiting 103 seconds before starting (gathering samples). Waiting 102 seconds before starting (gathering samples). Waiting 101 seconds before starting (gathering samples). Waiting 100 seconds before starting (gathering samples). Waiting 99 seconds before starting (gathering samples). Waiting 98 seconds before starting (gathering samples). Waiting 97 seconds before starting (gathering samples). Waiting 96 seconds before starting (gathering samples). Waiting 95 seconds before starting (gathering samples). Waiting 94 seconds before starting (gathering samples). Waiting 93 seconds before starting (gathering samples). Waiting 92 seconds before starting (gathering samples). Waiting 91 seconds before starting (gathering samples). Waiting 90 seconds before starting (gathering samples). Waiting 89 seconds before starting (gathering samples). Waiting 88 seconds before starting (gathering samples). Waiting 87 seconds before starting (gathering samples). Waiting 86 seconds before starting (gathering samples). Waiting 85 seconds before starting (gathering samples). Waiting 84 seconds before starting (gathering samples). Waiting 83 seconds before starting (gathering samples). Waiting 82 seconds before starting (gathering samples). Waiting 81 seconds before starting (gathering samples). Waiting 80 seconds before starting (gathering samples). Waiting 79 seconds before starting (gathering samples). Waiting 78 seconds before starting (gathering samples). Waiting 77 seconds before starting (gathering samples). Waiting 76 seconds before starting (gathering samples). Waiting 75 seconds before starting (gathering samples). Waiting 74 seconds before starting (gathering samples). Waiting 73 seconds before starting (gathering samples). Waiting 72 seconds before starting (gathering samples). Waiting 71 seconds before starting (gathering samples). Waiting 70 seconds before starting (gathering samples). Waiting 69 seconds before starting (gathering samples). Waiting 68 seconds before starting (gathering samples). Waiting 67 seconds before starting (gathering samples). Waiting 66 seconds before starting (gathering samples). Waiting 65 seconds before starting (gathering samples). Waiting 64 seconds before starting (gathering samples). Waiting 63 seconds before starting (gathering samples). Waiting 62 seconds before starting (gathering samples). Waiting 61 seconds before starting (gathering samples). Waiting 60 seconds before starting (gathering samples). Waiting 59 seconds before starting (gathering samples). Waiting 58 seconds before starting (gathering samples). Waiting 57 seconds before starting (gathering samples). Waiting 56 seconds before starting (gathering samples). Waiting 55 seconds before starting (gathering samples). Waiting 54 seconds before starting (gathering samples). Waiting 53 seconds before starting (gathering samples). Waiting 52 seconds before starting (gathering samples). Waiting 51 seconds before starting (gathering samples). Waiting 50 seconds before starting (gathering samples). Waiting 49 seconds before starting (gathering samples). Waiting 48 seconds before starting (gathering samples). Waiting 47 seconds before starting (gathering samples). Waiting 46 seconds before starting (gathering samples). Waiting 45 seconds before starting (gathering samples). Waiting 44 seconds before starting (gathering samples). Waiting 43 seconds before starting (gathering samples). Waiting 42 seconds before starting (gathering samples). Waiting 41 seconds before starting (gathering samples). Waiting 40 seconds before starting (gathering samples). Waiting 39 seconds before starting (gathering samples). Waiting 38 seconds before starting (gathering samples). Waiting 37 seconds before starting (gathering samples). Waiting 36 seconds before starting (gathering samples). Waiting 35 seconds before starting (gathering samples). Waiting 34 seconds before starting (gathering samples). Waiting 33 seconds before starting (gathering samples). Waiting 32 seconds before starting (gathering samples). Waiting 31 seconds before starting (gathering samples). Waiting 30 seconds before starting (gathering samples). Waiting 29 seconds before starting (gathering samples). Waiting 28 seconds before starting (gathering samples). Waiting 27 seconds before starting (gathering samples). Waiting 26 seconds before starting (gathering samples). Waiting 25 seconds before starting (gathering samples). Waiting 24 seconds before starting (gathering samples). Waiting 23 seconds before starting (gathering samples). Waiting 22 seconds before starting (gathering samples). Waiting 21 seconds before starting (gathering samples). Waiting 20 seconds before starting (gathering samples). Waiting 19 seconds before starting (gathering samples). Waiting 18 seconds before starting (gathering samples). Waiting 17 seconds before starting (gathering samples). Waiting 16 seconds before starting (gathering samples). Waiting 15 seconds before starting (gathering samples). Waiting 14 seconds before starting (gathering samples). Waiting 13 seconds before starting (gathering samples). Waiting 12 seconds before starting (gathering samples). Waiting 11 seconds before starting (gathering samples). Waiting 10 seconds before starting (gathering samples). Waiting 9 seconds before starting (gathering samples). Waiting 8 seconds before starting (gathering samples). Waiting 7 seconds before starting (gathering samples). Waiting 6 seconds before starting (gathering samples). Waiting 5 seconds before starting (gathering samples). Waiting 4 seconds before starting (gathering samples). Waiting 3 seconds before starting (gathering samples). Waiting 2 seconds before starting (gathering samples). Waiting 1 seconds before starting (gathering samples).                                                                                  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:51:32   3.7   0.1   1.9  93.8   0.5    1  11136   3248  11.75 
+10:51:33   0.5   0.0   0.4  99.1   0.0    1   2152    803  11.75 
+10:51:34   5.8   0.0   1.8  91.6   0.8    4   8336   1906  11.75 
+10:51:35   3.4   0.0   1.2  94.8   0.6    1   5208   1493  10.68 
+10:51:36   2.0   0.0   1.0  96.8   0.2    1   5071   1378  10.68 
+10:51:37   2.3   0.0   0.8  96.5   0.3    1   5906   1700  10.68 
+10:51:38   5.3   0.0   1.5  92.8   0.4    1   9406   2237  10.15 
+10:51:39   1.3   0.0   0.8  97.8   0.1    2   3357   1170  10.15 
+10:51:40   6.1   0.0   1.3  92.3   0.3    5   9034   3219  10.15 
+10:51:41   2.1   0.0   0.9  96.7   0.3    1   5127   1390   8.45 
+10:51:42   2.6   0.0   0.7  96.5   0.2    1   3564   1287   8.45 
+10:51:43   4.3   0.0   1.3  94.2   0.2    2   7860   1745   8.43 
+10:51:44   2.3   0.0   0.9  96.7   0.1    2   4960   1864   8.08 
+10:51:45   1.5   0.0   0.5  97.9   0.1    1   3483    986   8.08 
+10:51:46   2.9   0.0   1.3  95.3   0.5    2   6307   2087   8.10 
+10:51:47   9.5   0.0   2.0  87.3   1.3    4  16389   4314   5.62 
+10:51:48   7.7   0.0   1.8  89.9   0.6    2   8852   2334   5.62 
+10:51:49  11.0   0.0   1.9  86.2   0.9    3  17251   3748  13.14 
+10:51:50   6.1   0.0   1.4  92.4   0.2    1   8357   2591  13.90 
+10:51:51   0.4   0.0   0.4  99.1   0.0    1   1438    588  13.90 
+10:51:52   0.5   0.0   0.6  98.9   0.0    1   1739    673  10.09 
+10:51:53   0.4   0.0   0.4  99.1   0.0    1   1373    485   5.66 
+10:51:54   6.8   0.0   2.0  89.9   1.3    8  14655   4075   5.66 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:51:55   8.3   0.0   2.2  88.5   1.0    3  12921   4308   5.38 
+10:51:56   9.6   0.0   2.3  87.6   0.6    2  14329   3796  13.88 
+10:51:57   9.5   0.0   2.5  87.3   0.7    2  12100   3322  13.88 
+10:51:58   7.4   0.0   1.4  91.0   0.1    2   5973   1682  14.67 
+10:51:59  12.2   0.0   2.1  85.2   0.5    3  13525   3342  13.40 
+10:52:00   8.5   0.0   1.7  89.2   0.6    1  11631   3291  13.40 
+10:52:01   1.8   0.0   0.9  96.2   1.0    1   6057   1658  14.95 
+10:52:02   4.0   0.0   1.1  94.1   0.8    4   8685   2347   8.81 
+10:52:03   5.8   0.0   2.9  89.9   1.3    3  21269   4241   8.81 
+10:52:04   5.3   0.0   2.5  91.3   0.9    5  16884   3730  11.29 
+10:52:05   4.0   0.0   1.6  93.8   0.6    2   8690   2449  11.16 
+10:52:06   1.3   0.0   1.4  96.5   0.8    1   6835   1655  11.16 
+10:52:07   1.8   0.0   1.4  95.9   0.9    2   7522   1721   8.91 
+10:52:08   1.2   0.0   0.7  97.7   0.4    1   4707   1002   9.54 
+10:52:09   1.5   0.0   0.5  98.0   0.0    1   2060    876   9.54 
+10:52:10   1.0   0.0   0.6  98.4   0.0    2   1828    730   6.65 
+10:52:11   1.1   0.0   0.6  97.7   0.5    2   5175   1278   5.78 
+10:52:12   1.0   0.0   0.9  97.7   0.4    1   5482   1382   5.78 
+10:52:13   1.3   0.0   0.5  98.2   0.0    1   1534    646   7.57 
+10:52:14   8.9   0.0   1.9  88.1   1.1    4  14199   3572   6.86 
+10:52:15   1.9   0.0   1.0  96.4   0.6    1   5224   1307   6.86 
+10:52:16   1.8   0.0   1.3  96.5   0.4    1   5378   1364  10.13 
+10:52:17   0.4   0.0   0.4  99.2   0.0    1   1029    378   6.51 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:52:18   2.8   0.0   0.8  95.8   0.6    1   6066   1511   6.51 
+10:52:19   0.8   0.0   0.8  98.3   0.1    1   3156    857   6.46 
+10:52:20   1.4   0.0   0.6  97.7   0.3    1   3813    987   7.34 
+10:52:21   0.4   0.0   0.5  99.1   0.0    1   1240    428   7.34 
+10:52:22   4.1   0.0   1.2  93.0   1.6    1   8659   2056   7.41 
+10:52:23   3.6   0.0   0.8  94.9   0.6    1   9208   2013  10.58 
+10:52:24   2.9   0.0   1.2  95.4   0.4    2   6698   1821  10.58 
+10:52:25   1.3   0.0   0.6  98.1   0.0    1   1194    466  10.58 
+10:52:26   6.3   0.0   0.6  93.0   0.0    2   2098    911   9.32 
+10:52:27   0.9   0.0   1.1  97.7   0.3    1   4792   1134   9.32 
+10:52:28   1.1   0.0   0.9  97.8   0.3    1   4492   1041   9.32 
+10:52:29   0.3   0.0   0.3  99.4   0.0    1   1021    335   5.17 
+10:52:30   5.3   0.0   1.8  92.3   0.6    5   6597  18107   5.17 
+10:52:31   4.0   0.0   2.0  92.5   1.5    1  12661   2448   5.17 
+10:52:32  12.7   0.0   2.5  84.3   0.5    1  19942   4956  14.16 
+10:52:33   1.6   0.0   1.1  96.8   0.4    1   7974   1723  14.16 
+10:52:34   3.3   0.0   1.4  95.2   0.1    1  15623   3155  14.16 
+10:52:35   3.0   0.0   1.3  95.7   0.0    1   9928   2022   9.67 
+10:52:36   2.1   0.0   1.3  96.2   0.4    1   6503   1742   9.67 
+10:52:37   0.8   0.0   0.5  98.6   0.1    2   2242    795   7.35 
+10:52:38   0.9   0.0   0.4  98.4   0.3    1   3096    785   7.35 
+10:52:39   1.3   0.0   0.6  97.8   0.3    1   3438    992   7.35 
+10:52:40   0.9   0.0   0.5  98.6   0.0    2   2236    801   6.40 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:52:41   5.2   0.0   3.0  90.2   1.6    4  13284   3728   6.37 
+10:52:42   7.9   0.0   2.7  88.3   1.1    5  21108   4516   6.37 
+10:52:43   9.8   0.0   2.6  86.8   0.8    2  17694   4098  11.83 
+10:52:44   1.4   0.0   1.1  96.9   0.5    2   6859   1435  14.54 
+10:52:45   1.3   0.0   0.6  98.1   0.0    1   4109    859  14.54 
+10:52:46   0.6   0.0   0.7  98.7   0.0    1   4274    824   8.52 
+10:52:47   0.4   0.0   0.3  99.4   0.0    1   1823    664   7.65 
+10:52:48  11.9   0.0   5.5  81.6   1.0   11  46120   7814   7.65 
+10:52:49  10.2   0.0   2.0  86.6   1.3    3  16711   5685   6.82 
+10:52:50  11.7   0.0   1.9  85.0   1.4    3  14426   4716  15.23 
+10:52:51   5.6   0.0   1.8  91.5   1.1    3  13753   3475  15.23 
+10:52:52  11.0   0.0   2.9  84.7   1.4    2  16320   5205  13.88 
+10:52:53   2.4   0.0   1.0  96.0   0.6    3   7608   1782  14.08 
+10:52:54   1.6   0.0   0.9  97.2   0.3    2   5479   1681  14.08 
+10:52:55   0.5   0.0   1.1  98.3   0.1    1   3229    965   8.94 
+10:52:56   7.8   0.0   1.6  89.7   0.9    2  12248   2839   7.82 
+10:52:57   2.6   0.0   1.1  96.2   0.1    1   5061   1710   7.82 
+10:52:58   1.5   0.0   0.8  97.4   0.3    1   4747   1380  10.63 
+10:52:59   1.7   0.0   0.8  97.1   0.4    1   4691   1543   7.43 
+10:53:00   1.0   0.0   0.9  97.9   0.1    1   3045   1023   7.43 
+10:53:01   1.8   0.0   0.8  97.1   0.3    1   3798   1146   7.39 
+10:53:02   1.8   0.0   0.8  97.2   0.3    1   4119   1172   7.70 
+10:53:03   1.3   0.0   0.8  97.9   0.1    1   2967    832   7.70 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:53:04   0.4   0.0   0.7  98.7   0.2    1   2206    709   6.65 
+10:53:05   0.7   0.0   0.5  98.7   0.1    1   1728    675   6.21 
+10:53:06   1.1   0.0   0.9  97.4   0.6    1   4992   1134   6.21 
+10:53:07   0.9   0.0   0.4  98.7   0.0    1   1649    542   7.95 
+10:53:08   4.7   0.0   1.8  92.3   1.2    2  11888   3232   6.02 
+10:53:09   2.3   0.0   1.3  95.6   0.8    1   9746   2319   6.02 
+10:53:10   5.4   0.0   2.0  91.5   1.1    4   9893   2315  10.19 
+10:53:11   8.9   0.0   1.8  88.8   0.6    6  10654   2605  13.42 
+10:53:12  10.3   0.0   2.1  87.1   0.5    2  16166   4055  13.42 
+10:53:13   0.8   0.0   0.6  98.4   0.3    1   2270   1122  13.43 
+10:53:14   0.5   0.0   0.3  99.2   0.0    1   1303    594   6.09 
+10:53:15   0.3   0.0   0.3  99.4   0.0    2   1071    352   6.09 
+10:53:16   5.8   0.0   1.1  92.8   0.3    4   5261   3462   6.09 
+10:53:17   6.8   0.0   2.7  88.9   1.6    2  17065   4399  13.83 
+10:53:18   7.4   0.0   1.6  90.5   0.4    2  11848   3415  13.83 
+10:53:19  10.2   0.0   1.6  87.4   0.8    3  13140   3358  13.83 
+10:53:20   7.2   0.0   1.0  91.4   0.4    4   9879   2694  11.83 
+10:53:21  11.5   0.0   0.9  87.6   0.0    2   2645   1596  11.83 
+10:53:22  11.8   0.0   2.5  85.0   0.6    3  11319   3386  11.83 
+10:53:23   8.2   0.0   1.5  89.9   0.4    2  10201   2605  13.76 
+10:53:24   9.6   0.0   2.3  87.4   0.8   15  12468   3685  13.76 
+10:53:25   6.3   0.0   2.0  90.7   1.0    1   9938   6063  13.76 
+10:53:26   1.1   0.0   0.6  97.7   0.5    2   4456   1071  15.47 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:53:27   0.8   0.0   0.4  98.7   0.0    1   1299    524  15.47 
+10:53:28   1.1   0.0   0.8  97.8   0.3    2   4017   1022   7.33 
+10:53:29   2.3   0.0   0.9  96.4   0.4    2   5055   1320   5.52 
+10:53:30   2.1   0.0   0.6  97.0   0.3    1   2270   1150   5.52 
+10:53:31   5.7   0.0   1.6  91.7   0.9   11   9161   2920   7.87 
+10:53:32   6.4   0.0   1.7  91.0   0.9    1   9119   2320   6.29 
+10:53:33   1.4   0.0   0.9  97.2   0.5    1   4986   1146   6.29 
+10:53:34   0.8   0.0   0.4  98.9   0.0    1   1379    538   9.14 
+10:53:35   2.1   0.0   0.9  96.5   0.5    1   5476   1341   6.13 
+10:53:36   0.5   0.0   0.8  98.6   0.1    1   2409    858   6.13 
+10:53:37   1.9   0.0   0.6  96.9   0.6    1   5180   1212   7.91 
+10:53:38   0.6   0.0   0.4  98.9   0.0    1    978    370   7.83 
+10:53:39   3.3   0.0   1.2  94.5   1.0    2   6059   1996   7.83 
+10:53:40   4.4   0.0   1.6  92.8   1.1    3   9344   2453   5.06 
+10:53:41   1.9   0.0   1.1  96.7   0.3    2   6875   1471  10.99 
+10:53:42   1.1   0.0   0.7  97.9   0.3    1   2894    866  10.99 
+10:53:43   0.3   0.0   0.4  99.4   0.0    1   1027    369   7.94 
+10:53:44   1.6   0.0   0.8  97.1   0.5    4   5003   1481   4.91 
+10:53:45   1.2   0.0   0.8  97.5   0.5    1   4752   1204   4.91 
+10:53:46   0.3   0.0   0.4  99.4   0.0    1    920    362   7.85 
+10:53:47   0.6   0.0   0.3  99.1   0.0    2    903    356   5.87 
+10:53:48   3.9   0.0   2.3  91.9   1.8    1  10467   2736   5.87 
+10:53:49  16.8   0.0   3.3  79.0   0.9    6  22642   6776   9.63 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:53:50   4.4   0.0   1.5  93.1   1.0    4  10730   2684  14.66 
+10:53:51   0.8   0.0   0.5  98.6   0.2    1   3127    839  14.66 
+10:53:52   0.7   0.0   0.4  98.9   0.0    2   1119    460   8.33 
+10:53:53   1.7   0.0   1.1  96.8   0.4    2   4798   1492   5.50 
+10:53:54   0.6   0.0   0.7  98.6   0.2    1   2066    649   5.50 
+10:53:55   0.6   0.0   0.7  98.6   0.1    2   1770    734   7.99 
+10:53:56   0.9   0.0   1.1  97.5   0.5    1   4646   1096   6.63 
+10:53:57   3.4   0.0   0.5  96.1   0.0    1   1992   2275   6.63 
+10:53:58   2.4   0.0   1.5  95.0   1.1    4   6492   1820   6.72 
+10:53:59   5.0   0.0   1.4  92.1   1.5    3  12933   3415   9.36 
+10:54:00   8.0   0.0   2.5  88.6   1.0    4  19328   4193  13.84 
+10:54:01   7.2   0.0   1.9  90.0   0.9    2  14683   3560  13.84 
+10:54:02   0.8   0.0   0.6  98.5   0.1    2   4967   1114  13.84 
+10:54:03   0.8   0.0   0.5  98.7   0.0    1   3685    642   9.76 
+10:54:04   0.8   0.0   0.6  98.6   0.0    2   3311    715   9.76 
+10:54:05   3.5   0.0   0.6  96.0   0.0    1   1952   1015   7.50 
+10:54:06   7.5   0.0   2.3  88.9   1.3    5  16097   4594   7.06 
+10:54:07   8.9   0.0   1.5  88.6   1.0    4  14635   3878   7.06 
+10:54:08   6.1   0.0   1.5  92.1   0.4    2  10911   3431  12.66 
+10:54:09   3.5   0.0   1.5  94.5   0.5    3  10162   2552  13.47 
+10:54:10   9.7   0.0   2.1  87.4   0.8    2  16245   4273  13.47 
+10:54:11   6.5   0.0   1.5  91.4   0.6    2  12688   3511  11.07 
+10:54:12   3.7   0.0   1.1  94.6   0.6    1  10147   2648  10.88 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:54:13   3.2   0.0   1.6  94.5   0.7    2  10504   2485  10.88 
+10:54:14  11.0   0.0   4.1  84.6   0.3    4  20889   6083  10.24 
+10:54:15   5.3   0.0   1.8  92.6   0.3    4  13699   4329  13.25 
+10:54:16   2.1   0.0   0.9  97.0   0.0    1   5244   1892  13.25 
+10:54:17   5.1   0.0   1.4  93.0   0.5    1  10863   2118   8.97 
+10:54:18   2.2   0.0   1.0  96.7   0.1    4   4470   1275  10.22 
+10:54:19   1.6   0.0   0.8  97.6   0.1    6   3460   1183  10.22 
+10:54:20   1.9   0.0   0.9  96.9   0.2    1   4275   1196   7.72 
+10:54:21   4.0   0.0   1.1  94.3   0.5    1   8089   2080   8.32 
+10:54:22   1.5   0.0   0.9  97.4   0.2    1   3787   1165   8.32 
+10:54:23   3.9   0.0   1.2  94.7   0.3    5   6711   1719   9.62 
+10:54:24   2.8   0.0   1.1  95.8   0.3    3   5595   1448   9.23 
+10:54:25   5.5   0.0   1.6  92.9   0.1    1   4404   1630  10.44 
+10:54:26   4.3   0.0   1.1  94.3   0.3    2   6656   1945  10.44 
+10:54:27   2.1   0.0   1.1  96.7   0.1    3   4892   1137  10.44 
+10:54:28   1.5   0.0   0.8  97.3   0.4    1   5121   1170   8.40 
+10:54:29   5.0   0.0   1.7  92.6   0.6    3   7640   2334   8.40 
+10:54:30   7.9   0.0   2.1  89.0   1.1    2  14371   3858   8.40 
+10:54:31   7.2   0.0   1.4  90.4   1.0    3  10487   2529  13.25 
+10:54:32  10.5   0.0   2.0  86.5   0.9    4  16128   3535  13.25 
+10:54:33  10.3   0.0   2.1  87.2   0.4    1  12259   3773  13.25 
+10:54:34   0.5   0.0   0.3  99.2   0.0    1   1642    844  14.46 
+10:54:35   2.1   0.0   0.5  97.4   0.0    2   1787   1331  14.46 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:54:36   0.6   0.0   0.5  98.9   0.0    1   1755    595   6.61 
+10:54:37   0.9   0.0   0.6  98.5   0.0    1   2144    794   6.05 
+10:54:38   7.4   0.0   2.2  88.7   1.7    1  17043   4315   6.05 
+10:54:39   4.4   0.0   1.5  92.9   1.3    2   9281   2406   7.09 
+10:54:40   9.3   0.0   2.1  88.0   0.5    2  11302   3404  11.78 
+10:54:41  11.2   0.0   2.8  84.9   1.1    1  14663   4117  11.78 
+10:54:42   5.7   0.0   0.9  93.2   0.1    4   5397   1836  14.21 
+10:54:43   7.9   0.0   0.8  91.2   0.1    6   4215   1439  11.81 
+10:54:44  12.9   0.0   2.1  84.3   0.8    2  15560   3874  11.81 
+10:54:45   8.4   0.0   1.1  90.2   0.3    2   6544   2499  13.88 
+10:54:46   6.5   0.0   2.2  89.6   1.8    2  13930   3519  13.12 
+10:54:47   1.5   0.0   0.5  97.5   0.4    2   5719   1489  13.12 
+10:54:48   0.4   0.0   0.4  99.1   0.1    1   2019    556  12.44 
+10:54:49   2.2   0.0   0.8  96.9   0.1    2   1839   6737   7.01 
+10:54:50   1.4   0.0   0.7  97.5   0.3    1   4759   1387   7.01 
+10:54:51   0.8   0.0   0.9  97.9   0.4    1   4879   1042   7.66 
+10:54:52   0.2   0.0   0.3  99.6   0.0    1    941    279   7.67 
+10:54:53   8.4   0.0   2.6  87.4   1.6    3  13751   3611   7.67 
+10:54:54   3.2   0.0   1.1  95.4   0.3    1   4813   1288   4.89 
+10:54:55   2.1   0.0   0.5  97.0   0.4    1   4991   1285   9.89 
+10:54:56   0.3   0.0   0.4  99.3   0.0    1   1163    484   9.89 
+10:54:57   1.5   0.0   1.0  97.0   0.6    3   5972   1413   5.53 
+10:54:58   1.0   0.0   0.6  98.1   0.3    1   3130    794   8.25 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:54:59   1.1   0.0   0.4  98.2   0.2    2   2788    765   8.25 
+10:55:00   2.9   0.0   1.0  95.4   0.6    1   4344   1466   7.01 
+10:55:01   4.3   0.0   1.4  92.5   1.7    1   9407   2167   8.34 
+10:55:02   2.4   0.0   1.6  95.0   1.0    1   7290   1737   8.34 
+10:55:03   1.6   0.0   0.6  97.3   0.5    1   4542   1083  10.10 
+10:55:04   0.3   0.0   0.3  99.4   0.0    1    910    380   6.64 
+10:55:05   0.9   0.0   0.9  97.7   0.4    1   4231   1179   6.64 
+10:55:06   2.7   0.0   0.9  95.8   0.5    1   5090   1169   5.28 
+10:55:07   0.5   0.0   0.5  98.9   0.1    1   2014    581   7.41 
+10:55:08   0.5   0.0   0.4  99.1   0.0    1    948    354   7.41 
+10:55:09   4.5   0.0   1.5  92.3   1.8    3   9688   2738   4.89 
+10:55:10   3.0   0.0   1.1  95.5   0.4    2   9712   1768   9.58 
+10:55:11  12.4   0.0   3.4  83.4   0.8    5  20253   4902   9.58 
+10:55:12   3.3   0.0   0.9  95.3   0.5    2   8858   2146   9.44 
+10:55:13   0.5   0.0   1.1  98.4   0.1    1   2572    844   8.31 
+10:55:14   0.6   0.0   0.6  98.8   0.0    1   1719    678   8.31 
+10:55:15   1.3   0.0   0.8  97.4   0.5    1   5088   1413   8.39 
+10:55:16   0.9   0.0   0.4  98.6   0.1    1   1877    586   7.94 
+10:55:17   0.6   0.0   0.4  98.9   0.1    2   1586    643   7.94 
+10:55:18   1.9   0.0   0.5  97.0   0.5    1   4747   1075   7.94 
+10:55:19   0.4   0.0   0.4  99.3   0.0    1    864    333   5.44 
+10:55:20   3.8   0.0   2.0  93.0   1.3    4   8909   2722   5.44 
+10:55:21   7.8   0.0   2.9  88.4   0.9    1  18431   4222   5.44 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:55:22  10.0   0.0   2.3  86.6   1.0    1  18531   4310  13.96 
+10:55:23   1.6   0.0   1.3  96.3   0.8    1   9333   1868  13.96 
+10:55:24   0.4   0.0   0.5  99.1   0.0    2   3748    742  13.96 
+10:55:25   1.9   0.0   1.0  97.1   0.0    1   3978    847   8.74 
+10:55:26   0.9   0.0   0.4  98.7   0.0    1   2393    789   8.74 
+10:55:27   3.9   0.0   1.5  93.8   0.8    6  10879   2575   8.74 
+10:55:28  13.2   0.0   3.6  82.0   1.2    8  23482   6140   6.64 
+10:55:29   9.1   0.0   1.8  88.3   0.8    2  12096   3714   6.64 
+10:55:30  10.7   0.0   2.2  86.6   0.5    6  15123   4200  14.80 
+10:55:31   5.8   0.0   1.3  92.4   0.5    1  11488   2855  12.78 
+10:55:32   2.3   0.0   1.1  96.1   0.5    1   8080   1869  12.78 
+10:55:33   1.6   0.0   1.4  96.6   0.4    1   6988   2115  11.70 
+10:55:34   2.4   0.0   0.6  97.1   0.0    1   2779   7839   8.92 
+10:55:35   4.7   0.0   1.3  93.5   0.5    3  10507   2659   8.92 
+10:55:36   4.0   0.0   1.1  94.7   0.1    1   4045   1910   7.86 
+10:55:37   0.6   0.0   0.6  98.7   0.1    2   2581    812  10.90 
+10:55:38   1.6   0.0   0.9  97.2   0.3    5   4605   1137  10.90 
+10:55:39   1.4   0.0   0.6  97.8   0.2    3   3477   1037   6.89 
+10:55:40   1.7   0.0   0.8  97.4   0.2    3   3090    990   7.03 
+10:55:41   1.9   0.0   0.8  97.2   0.2    1   4203   1148   7.03 
+10:55:42   1.0   0.0   0.6  98.2   0.1    1   2858    872   7.77 
+10:55:43   0.6   0.0   0.5  98.8   0.1    3   2259    674   6.67 
+10:55:44   1.1   0.0   0.6  98.2   0.1    1   2395    761   6.67 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:55:45   0.8   0.0   1.3  97.5   0.5    1   4451   1085   6.24 
+10:55:46   1.0   0.0   0.3  98.7   0.1    1   1754    494   7.13 
+10:55:47   4.5   0.0   1.3  93.4   0.8    6  10969   2801   7.13 
+10:55:48   3.5   0.0   1.5  93.7   1.2    1  11180   2543   6.37 
+10:55:49   3.5   0.0   2.1  94.0   0.4    1  10102   2463  10.27 
+10:55:50   8.1   0.0   1.6  89.8   0.6    7   8423   2147  10.27 
+10:55:51  10.6   0.0   2.0  86.8   0.6    4  15636   3463  11.16 
+10:55:52   7.9   0.0   1.5  90.3   0.3    1  10291   3249  14.32 
+10:55:53   0.4   0.0   0.4  99.2   0.0    1   1529    649  14.32 
+10:55:54   0.5   0.0   0.5  99.0   0.0    2   1443    617   6.57 
+10:55:55   1.1   0.0   0.4  98.6   0.0    2   1617    586   5.56 
+10:55:56   3.9   0.0   0.8  95.1   0.3    2   5611   2314   5.56 
+10:55:57   6.3   0.0   2.3  89.9   1.5    3  15785   3985   7.19 
+10:55:58   4.6   0.0   1.6  92.6   1.2    2   9916   2359  11.94 
+10:55:59  11.5   0.0   1.7  86.2   0.6    2  13090   5470  11.94 
+10:56:00  13.3   0.0   2.2  83.4   1.1    2  15553   4329  14.38 
+10:56:01   6.5   0.0   1.2  92.1   0.2    3   8228   2302  12.68 
+10:56:02   8.9   0.0   0.8  90.2   0.1    3   3275   1405  12.68 
+10:56:03  11.3   0.0   2.0  86.1   0.6    3  13801   3919  12.73 
+10:56:04   3.3   0.0   0.8  95.8   0.1    1   5570   1897  11.96 
+10:56:05   4.9   0.0   2.2  91.8   1.1    1  13928   3315  11.96 
+10:56:06   1.6   0.0   1.1  96.7   0.6    2   6087   1657  11.94 
+10:56:07   0.6   0.0   0.6  98.6   0.2    1   2348    628   7.25 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:56:08   2.8   0.0   0.4  96.9   0.0    2   1326   1239   7.25 
+10:56:09   0.9   0.0   1.3  97.4   0.4    1   5057   1261   7.25 
+10:56:10   1.4   0.0   0.5  97.6   0.5    1   4459   1086   7.60 
+10:56:11   0.5   0.0   0.4  99.1   0.0    1    928    310   7.60 
+10:56:12   9.5   0.0   2.1  87.2   1.3    2  13884   3715   7.60 
+10:56:13   1.5   0.0   0.8  97.3   0.4    1   4569   1045  11.19 
+10:56:14   0.8   0.0   0.8  98.0   0.4    1   4435   1102  11.19 
+10:56:15   0.4   0.0   0.4  99.2   0.0    2   1268    561  11.19 
+10:56:16   1.8   0.0   0.9  96.8   0.5    2   6403   1705   8.46 
+10:56:17   0.8   0.0   0.8  98.2   0.2    1   3098    768   8.46 
+10:56:18   0.6   0.0   0.8  98.3   0.3    1   2890    682   8.46 
+10:56:19   1.2   0.0   0.9  97.4   0.5    3   3844   1043   7.18 
+10:56:20   3.2   0.0   1.6  93.5   1.6    3   9766   2195   7.18 
+10:56:21   2.4   0.0   1.0  95.6   1.0    2   7489   1578   6.35 
+10:56:22   0.6   0.0   0.8  98.4   0.3    1   3338    854  10.13 
+10:56:23   0.3   0.0   0.4  99.2   0.1    2    828    355   6.45 
+10:56:24   1.2   0.0   1.1  97.3   0.4    1   4732   1130   6.45 
+10:56:25   2.6   0.0   1.6  95.4   0.4    1   5003   1265   4.80 
+10:56:26   0.6   0.0   0.6  98.8   0.0    1   1051    439   9.24 
+10:56:27   0.2   0.0   0.3  99.5   0.0    1    902    371   9.24 
+10:56:28   4.4   0.0   1.8  91.8   2.1    2  10288   2433   5.06 
+10:56:29   6.4   0.0   1.9  91.0   0.7    2  15062   3112  10.24 
+10:56:30   8.9   0.0   2.1  87.7   1.3    1  14625   3618  10.24 
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+10:56:31   2.5   0.0   0.9  95.5   1.1    1   7586   1577  13.57 
+-------- ----- ----- ----- ----- ----- ---- ------ ------ ------ 
+ Average   3.8   0.0   1.2  94.5   0.5  2.1 7298.7 2071.7   9.38 
+ GeoMean   2.3   0.0   1.0  94.4   0.0  1.7 5356.7 1582.1   8.94 
+  StdDev   3.5   0.0   0.7   4.4   0.5  1.7 5600.3 1704.9   2.90 
+-------- ----- ----- ----- ----- ----- ---- ------ ------ ------ 
+ Minimum   0.2   0.0   0.3  79.0   0.0  1.0  828.0  279.0   4.80 
+ Maximum  16.8   0.1   5.5  99.6   2.1 15.0 46120.0 18107.0  15.47 
+-------- ----- ----- ----- ----- ----- ---- ------ ------ ------ 
+Summary:
+System:   9.38 Watts on average with standard deviation 2.90  
